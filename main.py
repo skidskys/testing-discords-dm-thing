@@ -8,4 +8,4 @@ client = discord.Client()
 async def on_ready():
     print('discordK')
 
-client.login('NzUxOTE0OTc3MDMxNDg3NDk5.X1QBZA.IKUM-x9yysDOGKmODL79OTqX_CE')
+client.login('NzUxOTE0OTc3MDMxNDg3NDk5.X1QBZA.yaUJFdgARRqHYJQWjbaSHbAo6Rs')
